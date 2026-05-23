@@ -14,8 +14,8 @@ The end-to-end walkthrough: from creating a free Azure account, to provisioning 
 
 ---
 
-### 📗 [Sign up for an Azure Account — Step-by-Step](./sign_up_for_azure_account_tutorial/README.md)
+### 📗 [Sign up for an Azure Account — Step-by-Step (external guide)](https://ohiocomputeracademy.com/blogs/cloud-computing/how-to-create-a-microsoft-azure-account-a-step-by-step-guide/)
 
-A detailed, screenshot-heavy walkthrough of the Azure signup flow itself — Microsoft account creation, identity verification, free-tier setup, and the Azure portal first-look.
+A detailed, screenshot-heavy walkthrough of the Azure signup flow itself — Microsoft account creation, identity verification, free-tier setup, and the Azure portal first-look. Hosted by Ohio Computer Academy.
 
 **Use this** as a prerequisite if you don't already have an Azure account, or as a reference if you get stuck in Step 1 of the main tutorial.

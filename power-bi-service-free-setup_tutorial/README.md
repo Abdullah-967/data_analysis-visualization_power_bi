@@ -32,7 +32,7 @@ Pick the Azure signup path that fits you:
 1. Go to one of:
 
    - Students: [https://azure.microsoft.com/free/students](https://azure.microsoft.com/free/students)
-   - Everyone else: [https://azure.microsoft.com/free](https://azure.microsoft.com/free). For the sign-up walkthrough, see [Sign up for an Azure account](../sign_up_for_azure_account_tutorial/README.md).
+   - Everyone else: [https://azure.microsoft.com/free](https://azure.microsoft.com/free). For a step-by-step sign-up walkthrough, see [How to Create a Microsoft Azure Account (Ohio Computer Academy)](https://ohiocomputeracademy.com/blogs/cloud-computing/how-to-create-a-microsoft-azure-account-a-step-by-step-guide/).
 2. Sign in with a Microsoft account (personal Outlook/Hotmail works) or create one.
 3. Complete identity verification.
 
